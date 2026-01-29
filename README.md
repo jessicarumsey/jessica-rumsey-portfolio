@@ -9,23 +9,23 @@ Each project includes its own README with technical details, methodology, and re
 ## Featured Projects
 
 ### Decision Optimization for Type 1 Diabetes  
-**Focus:**  
-**Why it matters:** Demonstrates translating assumptions into quantitative models and evaluating outcomes to support better decisions.  
-**Skills Highlighted:** Optimization modeling, simulation, Python
+**Focus:** Optimization and decision-making with RL
+**Why it matters:** Demonstrates ability to implement and interpret RL algorithms for optimization and resilience to setbacks. 
+**Skills Highlighted:** Reinforcement Learning Algorithms, Optimization Modeling
 
 ---
 
 ### Organizational Communication Network Analysis  
-**Focus:** Network analysis of Enron's communication patterns  
-**Why it matters:** Shows ability to analyze complex relational data and extract actionable insights relevant to operational and organizational planning.  
-**Skills Highlighted:** Network Analysis, Data Preparation, Data Visualization, R
+**Focus:** Network analysis of organizational communication patterns  
+**Why it matters:** Shows ability to analyze relational data and validate statistical measurements within the context of the dataset. 
+**Skills Highlighted:** Network Analysis, Data Preparation, R
 
 ---
 
 ### Regression Analysis of Forest Fire Data  
 **Focus:** Predictive modeling and model validation  
 **Why it matters:** Highlights experience comparing model output to observed data, analyzing error, and refining assumptions to improve accuracy.  
-**Skills Highlighted:** Regression Modeling, Exploratory Data Analysis, Python
+**Skills Highlighted:** Regression Modeling, Exploratory Data Analysis, Data Visualization, Python
 
 ---
 
@@ -39,7 +39,6 @@ Each project includes its own README with technical details, methodology, and re
 ---
 
 ## About Me
-I am a Data Science graduate student with a strong foundation in mathematics and analytics, interested in roles involving forecasting, reporting, and data-driven operational support. My work focuses on accuracy, interpretability, and stakeholder-oriented communication.
-
+I am a Data Science graduate student with a strong foundation in mathematics and analytics, interested in data or quantitative analyst roles. My work highlights my experience analyzing large datasets, interpreting results within context, and clearly communicating findings with supporting data visualizations. 
 
 
