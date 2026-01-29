@@ -9,7 +9,7 @@ Each project includes its own README with technical details, methodology, and re
 ## Featured Projects
 
 ### Decision Optimization for Type 1 Diabetes  
-**Focus:** Optimization and decision-making with RL 
+**Focus:** Optimization and decision-making with RL  
 **Why it matters:** Demonstrates ability to implement and interpret RL algorithms for optimization and resilience to setbacks.  
 **Skills Highlighted:** Reinforcement Learning Algorithms, Optimization Modeling
 
