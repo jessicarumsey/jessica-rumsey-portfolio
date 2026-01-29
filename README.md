@@ -9,9 +9,8 @@ Each project includes its own README with technical details, methodology, and re
 ## Featured Projects
 
 ### Decision Optimization for Type 1 Diabetes  
-**Focus:** Optimization and decision-making with RL
-**Why it matters:** Demonstrates ability to implement and interpret RL algorithms for optimization and resilience to setbacks.
-
+**Focus:** Optimization and decision-making with RL 
+**Why it matters:** Demonstrates ability to implement and interpret RL algorithms for optimization and resilience to setbacks.  
 **Skills Highlighted:** Reinforcement Learning Algorithms, Optimization Modeling
 
 ---
@@ -19,7 +18,6 @@ Each project includes its own README with technical details, methodology, and re
 ### Organizational Communication Network Analysis  
 **Focus:** Network analysis of organizational communication patterns  
 **Why it matters:** Shows ability to analyze relational data and validate statistical measurements within the context of the dataset. 
-
 **Skills Highlighted:** Network Analysis, Data Preparation, R
 
 ---
