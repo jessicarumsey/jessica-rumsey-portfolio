@@ -17,7 +17,7 @@ Each project includes its own README with technical details, methodology, and re
 
 ### Organizational Communication Network Analysis  
 **Focus:** Network analysis of organizational communication patterns  
-**Why it matters:** Shows ability to analyze relational data and validate statistical measurements within the context of the dataset. 
+**Why it matters:** Shows ability to analyze relational data and validate statistical measurements within the context of the dataset.  
 **Skills Highlighted:** Network Analysis, Data Preparation, R
 
 ---
