@@ -39,6 +39,6 @@ Each project includes its own README with technical details, methodology, and re
 ---
 
 ## About Me
-I am a Data Science graduate student with a strong foundation in mathematics and analytics, interested in data or quantitative analyst roles. My work highlights my experience analyzing large datasets, interpreting results within context, and clearly communicating findings with supporting data visualizations. 
+I am a recent Data Science graduate with a strong foundation in mathematics and analytics, interested in data or quantitative analyst roles. My work highlights my experience analyzing large datasets, interpreting results within context, and clearly communicating findings with supporting data visualizations. 
 
 
